@@ -1,0 +1,1 @@
+C:\Users\Tuna\source\repos\WipeOut\WipeOut.csproj;arm64

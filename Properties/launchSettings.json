@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WipeOut (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "WipeOut (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
